@@ -1,0 +1,71 @@
+{
+  "acne": {
+    "cause": "Clogged hair follicles due to oil and dead skin cells.",
+    "treatment": "Use topical creams, benzoyl peroxide, or salicylic acid.",
+    "routine": "Wash face twice daily and avoid oily cosmetics.",
+    "message": "Acne is common and treatable. Stay consistent with skincare."
+  },
+
+  "eczema": {
+    "cause": "Skin inflammation often linked to allergies or genetics.",
+    "treatment": "Moisturizers, corticosteroid creams.",
+    "routine": "Avoid harsh soaps and keep skin hydrated.",
+    "message": "Eczema can be managed well with proper care."
+  },
+
+  "psoriasis": {
+    "cause": "Autoimmune condition causing rapid skin cell growth.",
+    "treatment": "Topical corticosteroids, phototherapy.",
+    "routine": "Reduce stress and moisturize regularly.",
+    "message": "Psoriasis is manageable with medical treatment."
+  },
+
+  "melanoma": {
+    "cause": "Uncontrolled growth of pigment-producing cells.",
+    "treatment": "Surgery, immunotherapy.",
+    "routine": "Avoid excessive sun exposure.",
+    "message": "Early detection greatly improves treatment success."
+  },
+
+  "vitiligo": {
+    "cause": "Loss of skin pigment due to autoimmune destruction.",
+    "treatment": "Topical steroids, light therapy.",
+    "routine": "Use sunscreen to protect depigmented skin.",
+    "message": "Vitiligo does not affect overall health."
+  },
+
+  "rosacea": {
+    "cause": "Chronic skin condition causing redness.",
+    "treatment": "Topical antibiotics or anti-inflammatory medication.",
+    "routine": "Avoid triggers like spicy foods and alcohol.",
+    "message": "Rosacea symptoms can be controlled with treatment."
+  },
+
+  "warts": {
+    "cause": "Human papillomavirus (HPV) infection.",
+    "treatment": "Salicylic acid or cryotherapy.",
+    "routine": "Avoid touching warts to prevent spreading.",
+    "message": "Warts are common and usually harmless."
+  },
+
+  "impetigo": {
+    "cause": "Bacterial infection of the skin.",
+    "treatment": "Antibiotic ointments or oral antibiotics.",
+    "routine": "Keep affected areas clean and avoid scratching.",
+    "message": "Impetigo is treatable with proper antibiotics."
+  },
+
+  "heart disease": {
+    "cause": "Blockage or narrowing of coronary arteries.",
+    "treatment": "Medication, lifestyle changes, surgery in severe cases.",
+    "routine": "Exercise regularly, eat healthy, avoid smoking.",
+    "message": "Heart health improves with lifestyle changes."
+  },
+
+  "normal": {
+    "cause": "No major disease detected.",
+    "treatment": "Maintain healthy lifestyle.",
+    "routine": "Balanced diet and regular exercise.",
+    "message": "You appear healthy. Keep maintaining good habits."
+  }
+}
