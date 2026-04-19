@@ -15,4 +15,11 @@ AI-based disease detection and medicine recommendation system.
 ## How to Run
 1. Install dependencies
 2. Run app.py
-![SwastyaScan Home](screenshots/home.png)
+## 🖥️ Screenshots
+
+### 🏠 Home Interface
+AI-powered interface for skin disease detection and heart health prediction.
+
+<p align="center">
+  <img src="screenshots/home.png" width="800"/>
+</p>
