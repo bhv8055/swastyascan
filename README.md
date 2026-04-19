@@ -15,3 +15,4 @@ AI-based disease detection and medicine recommendation system.
 ## How to Run
 1. Install dependencies
 2. Run app.py
+![SwastyaScan Home](screenshots/home.png)
