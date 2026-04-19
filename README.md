@@ -19,7 +19,7 @@ AI-based disease detection and medicine recommendation system.
 
 ### 🏠 Home Interface
 AI-powered interface for skin disease detection and heart health prediction.
-
+![SwastyaScan Home](home.png)
 <p align="center">
   <img src="screenshots/home.png" width="800"/>
 </p>
